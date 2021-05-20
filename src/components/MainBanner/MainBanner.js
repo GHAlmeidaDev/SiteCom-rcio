@@ -13,7 +13,7 @@ const MainBanner = () => {
           <br />
           aqui
         </h1>
-        <Link to="/products" className="btn btn-black">
+        <Link to="/produtos" className="btn btn-black">
           Ver
         </Link>
       </div>
